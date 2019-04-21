@@ -1,0 +1,6 @@
+program id ;
+var a , b : integer;
+begin
+read(a) ;
+end
+.
