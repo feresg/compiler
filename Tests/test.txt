@@ -1,13 +1,13 @@
 program main ;
-var a , b, c : integer;
-var x, y, z: char;
+var a , b : integer;
+var x : char;
 begin
-c := 14 ;
+b := 14;
 read(a);
 readln(b);
 while a < b do writeln(b);
 if a >= b then write(a) else writeln(b);
 a := b - 33;
-a := 14
+a := x
 end
 .
